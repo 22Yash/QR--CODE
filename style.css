@@ -15,6 +15,7 @@ body{
 .container{
     max-width: 360px;
     margin:3rem auto;
+    
 
 }
 .card img{
@@ -25,11 +26,13 @@ body{
     align-items: center;
     padding-left: 18px;
     padding-top: 1rem;
+    
 
 }
 .card{
     background-color:  hsl(0, 0%, 100%);
     border-radius: 1rem;
+    box-shadow: 5px 5px 5px hsl(220, 15%, 55%);
 }
 .card h2{
     padding: 1.5rem;
